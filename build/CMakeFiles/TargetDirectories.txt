@@ -1,0 +1,3 @@
+/home/usario/Códigos/C++/MIS-BakerPTAS/build/CMakeFiles/baker_ptas.dir
+/home/usario/Códigos/C++/MIS-BakerPTAS/build/CMakeFiles/edit_cache.dir
+/home/usario/Códigos/C++/MIS-BakerPTAS/build/CMakeFiles/rebuild_cache.dir
